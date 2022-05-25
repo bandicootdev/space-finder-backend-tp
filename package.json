@@ -1,0 +1,33 @@
+{
+  "name": "space-finder-backend-tp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bandicootdev/space-finder-backend-tp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bandicootdev/space-finder-backend-tp/issues"
+  },
+  "homepage": "https://github.com/bandicootdev/space-finder-backend-tp#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.35",
+    "aws-cdk": "^2.25.0",
+    "aws-cdk-lib": "^2.25.0",
+    "constructs": "^10.1.17",
+    "esbuild": "^0.14.39",
+    "ts-node": "^10.8.0",
+    "typescript": "^4.7.2"
+  },
+  "dependencies": {
+    "@types/uuid": "^8.3.4",
+    "uuid": "^8.3.2"
+  }
+}
